@@ -1,5 +1,5 @@
 ### Date created
-12th December, 2021
+12/12/2021
 
 ### Project Title
 Udacity Bike-Share Project
