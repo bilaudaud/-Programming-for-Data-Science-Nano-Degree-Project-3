@@ -153,7 +153,7 @@ def time_stats(df):
 
 
     print("\nThis took %s seconds." % (time.time() - start_time))
-    print('-'*40)
+    print('-'*50)
 
 
 
@@ -183,7 +183,7 @@ def station_stats(df):
     print("3. The start station for most frequent combination is '{}' and the end station is '{}'".format(frequent_start_pair, frequent_end_pair))
 
     print("\nThis took %s seconds." % (time.time() - start_time))
-    print('-'*40)
+    print('-'*50)
 
 
 def trip_duration_stats(df):
