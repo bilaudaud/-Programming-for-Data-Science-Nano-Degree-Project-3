@@ -13,4 +13,4 @@ chicago.csv
 washington.csv
 
 ### Credits
-Thank you to Udacity for the greata course content
+Thank you to Udacity for the great course content
